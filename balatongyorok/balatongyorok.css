@@ -43,7 +43,7 @@ body{
     background-color: #B0D1F1;
     width: 100%;
     margin-bottom: 20px;
-    border-collapse: collapse
+    border-collapse: collapse;
 }
 .tablazat td{
     border: 1px solid black;
